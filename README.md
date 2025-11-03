@@ -29,21 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesenhower-nachor&show_icons=true&theme=tokyonight" alt="Jesenhower's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesenhower-nachor&theme=tokyonight" alt="Jesenhower's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesenhower-nachor&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 
