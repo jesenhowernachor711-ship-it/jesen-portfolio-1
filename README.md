@@ -1,6 +1,6 @@
 <!-- Profile README.md -->
 <h1 align="center">Hi 👋, I'm Jesenhower A. Nachor</h1>
-<h3 align="center">🎨 A Passionate Front-End Developer from the Philippines 🇵🇭</h3>
+<h3 align="center">🎨 A Passionate Front-End Developer from the Philippines </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Coding Animation" />
